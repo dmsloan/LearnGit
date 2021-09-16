@@ -1,0 +1,1 @@
+https://www.coursera.org/learn/introduction-git-github/lecture/3OT51/deleting-and-renaming-files
