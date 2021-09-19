@@ -7,6 +7,7 @@ import sys
 
 def check_reboot():
     """Returns true if the computer has a pending reboot."""
+#this does not work at all
 
 def main()
     if check_reboot():
