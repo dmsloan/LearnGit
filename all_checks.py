@@ -9,6 +9,8 @@ def check_reboot():
     """Returns true if the computer has a pending reboot."""
 #this does not work at all
 
+def check_disk_full(disk, min_gb, min_percent)
+
 def main()
     if check_reboot():
         print("Pending reboot.")
