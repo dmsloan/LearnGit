@@ -1,4 +1,5 @@
-#This is to skip the staging area 
+#This lien is from learnGit
+# #This is to skip the staging area 
 #/usr/bin/env python3
 
 # ! C:/Program Files/Python38 python3
