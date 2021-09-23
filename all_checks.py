@@ -1,3 +1,5 @@
+
+#This is from learnGit2
 #This is to skip the staging area 
 #/usr/bin/env python3
 
