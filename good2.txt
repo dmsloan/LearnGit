@@ -1,1 +1,2 @@
 good2.txt from master
+good2.txt on good branch
